@@ -2,5 +2,5 @@
 Fisrt Repository
 
 
-I am very much to learn php programing.
+I want very much to learn php programing.
 testing
